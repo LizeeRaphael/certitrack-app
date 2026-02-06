@@ -213,7 +213,7 @@
 </section>
 
 <footer>
-  © <?php echo date('Y'); ?> CertiTrack Platform. Aights reserved.
+  © <?php echo date('Y'); ?> CertiTrack Platform. Rights reserved.
 </footer>
 
 </body>
